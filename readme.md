@@ -6,7 +6,8 @@ A set of one file tools useful for various webdev related items.  Stored here fo
 
 #### Adminer
 
-`https://github.com/mazzzzz/tools/raw/master/adminer.php`
+`https://github.com/mazzzzz/tools/raw/master/adminer.php` - MySql only
+`https://github.com/mazzzzz/tools/raw/master/adminer-all.php` - All drivers
 
 Adminer 3.7.1 English MySQL.  Useful database administration tool
 

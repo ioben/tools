@@ -20,3 +20,11 @@ https://rawgit.com/ben-rosio/tools/master/sr.php
 A tool to search and replace serialized values in a wordpress database.  Commonly used for migrations.
 
 By http://interconnectit.com/
+
+#### WP Cli - WordPress
+
+https://rawgit.com/ben-rosio/tools/master/wp.phar
+
+A tool to make managing WordPress sites via the commandline easier.
+
+By http://wp-cli.org/
